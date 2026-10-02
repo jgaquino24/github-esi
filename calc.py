@@ -1,3 +1,4 @@
+# Função de soma adicionada
 def sum(x, y):
   return x + y
 
